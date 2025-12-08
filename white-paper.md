@@ -507,8 +507,7 @@ References and Comparative Implementations: Throughout this paper, we have refer
 
 In closing, the Tea Network’s transition to Layer 2 is not an end but the beginning of a new chapter. Armed with an authoritative architecture and a passionate community of developers, it is poised to scale new heights. The success of this endeavor could mean a future where open-source developers around the globe can sustainably build and maintain the software that everyone relies on, powered by a decentralized network that truly values their contributions.
 
-\
-
+<br>
 
 ## Tea Network Whitepaper (Expanded)
 
@@ -608,8 +607,7 @@ Tea’s governance model is designed to be inclusive of all contributors: packag
 
 In conclusion, the governance of Tea Network is a critical component that keeps the protocol adaptable and community-driven. By enabling token holders and contributors to propose and vote on changes, Tea ensures that the system can evolve in response to the community’s needs and the ever-changing landscape of open-source software. This on-chain governance, combined with the economic incentives and safeguards (like slashing for malicious actions, and rewarding positive contributions), creates a resilient structure. It puts the future of the open-source funding protocol in the hands of those who use and contribute to it, fulfilling the decentralized ethos at the heart of Tea Network.
 
-\
-
+<br>
 
 ### Acknowledgments
 
